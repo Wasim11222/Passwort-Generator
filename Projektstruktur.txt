@@ -1,0 +1,5 @@
+passwort_generator_gui/
+├── password_generator.py       # 🧠 Hauptcode mit GUI und Logik
+├── themes.py                   # 🎨 Farb-Themes (Dark/Light Mode)
+├── utils.py                    # 🔧 Hilfsfunktionen (z. B. Passwort erstellen, speichern)
+├── README.md                   # 📄 Projektbeschreibung
