@@ -1,47 +1,57 @@
-🔐 passwort-generator
-ein kleines 🧠 python-projekt mit grafischer oberfläche, das dir hilft, sichere passwörter zu erstellen – schnell & einfach!
+🔐 Passwort-Generator
+Ein kleines 🧠 Python-Projekt mit grafischer Oberfläche, das dir hilft, sichere Passwörter zu erstellen – schnell & einfach!
 
-✨ funktionen
-🎲 zufällige passwörter mit buchstaben, zahlen und sonderzeichen
+✨ Funktionen
+🎲 Zufällige Passwörter mit Buchstaben, Zahlen und Sonderzeichen
 
-📏 passwortlänge frei wählbar
+📏 Passwortlänge frei wählbar
 
-🌙 dark mode & ☀️ light mode
+🌙 Dark Mode & ☀️ Light Mode
 
-📋 kopieren mit einem klick
+📋 Kopieren mit einem Klick
 
-⚙️ was du brauchst
-🖥️ python 3 (am besten ab version 3.8)
+⚙️ Voraussetzungen
+Damit das Projekt funktioniert, brauchst du:
 
-📦 module: tkinter (ist meistens schon dabei) und pyperclip
-➡️ pyperclip kannst du mit folgendem befehl installieren:
+🖥️ Python 3 (empfohlen ab Version 3.8)
+
+📦 Die Bibliothek pyperclip
+
+📦 Installation von pyperclip
+bash
+Kopieren
+Bearbeiten
 pip install pyperclip
+tkinter ist in der Regel schon in Python enthalten.
 
-🛠️ verwendete tools
-🧠 python
+🛠️ Verwendete Tools
+🧠 Python
 
-🪟 tkinter (für die benutzeroberfläche)
+🪟 Tkinter (für die Benutzeroberfläche)
 
-📎 pyperclip (zum kopieren in die zwischenablage)
+📎 Pyperclip (zum Kopieren in die Zwischenablage)
 
-🚀 wie starten
-stelle sicher, dass python installiert ist
+🚀 Start
+Stelle sicher, dass Python installiert ist
 
-installiere pyperclip (pip install pyperclip)
+Installiere pyperclip mit dem oben genannten Befehl
 
-starte das script mit:
+Starte das Script:
+
+bash
+Kopieren
+Bearbeiten
 python dateiname.py
+Es öffnet sich ein Fenster – Passwort erstellen & los geht’s! ✅
 
-das fenster öffnet sich – passwort erstellen und los geht's!
+💡 Wo hilft das Projekt?
+Beim Erstellen sicherer Passwörter für Websites, Apps oder Systeme
 
-💡 wo hilft das projekt?
-beim erstellen sicherer passwörter für websites, apps oder systeme
+Wenn du keine Ideen für ein neues Passwort hast
 
-wenn man keine ideen für ein neues passwort hat
+Beim Lernen von GUI-Programmierung mit Python
 
-beim lernen von gui-programmierung mit python
+Für kleine IT-Projekte, Schul- oder Ausbildungszwecke 👨‍💻👩‍💻
 
-für kleine IT-projekte oder schulische/berufliche übungen 👨‍💻👩‍💻
-
-🎯 ziel
-dieses tool zeigt, dass sicherheit einfach & stylisch sein kann – ideal für den alltag oder zum lernen!
+🎯 Ziel
+Dieses Tool zeigt, dass Sicherheit einfach & stylisch sein kann – perfekt für den Alltag oder zum Lernen!
